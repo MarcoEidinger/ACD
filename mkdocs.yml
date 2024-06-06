@@ -1,4 +1,5 @@
 site_name: My ACD
 site_url: https://mydomain.org/mysite
+docs_dir: acd
 theme:
   name: material
