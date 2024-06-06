@@ -1,0 +1,1 @@
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"My ACD","text":"<p>Yoo</p>"},{"location":"#meep","title":"Meep","text":"<p>Doo :)</p> <p>Help!</p>"}]}
