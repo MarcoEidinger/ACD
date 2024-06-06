@@ -1,5 +1,5 @@
 site_name: My ACD
-site_url: https://mydomain.org/mysite
+site_url: https://marcoeidinger.github.io/ACD/
 docs_dir: acd
 theme:
   name: material
